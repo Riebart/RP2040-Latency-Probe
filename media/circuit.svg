@@ -23,9 +23,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="1.6468145"
-     inkscape:cx="287.5248"
-     inkscape:cy="221.94364"
+     inkscape:zoom="2.3289474"
+     inkscape:cx="290.0452"
+     inkscape:cy="190"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="-8"
@@ -33,7 +33,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg77" />
   <rect
-     style="fill:#ffffff;stroke:none;stroke-width:7.55906"
+     style="fill:#ffffff;stroke-width:7.55906"
      id="rect77"
      width="580"
      height="380"
@@ -227,16 +227,16 @@
      id="path24" />
   <line
      x1="30"
-     y1="250"
+     y1="170"
      x2="30"
-     y2="223"
+     y2="197"
      style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"
      id="line24" />
   <line
      x1="30"
-     y1="197"
+     y1="223"
      x2="30"
-     y2="170"
+     y2="250"
      style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"
      id="line25" />
   <line
@@ -248,23 +248,23 @@
      id="line26" />
   <line
      x1="44.5"
-     y1="218"
+     y1="202"
      x2="44.5"
-     y2="202"
+     y2="218"
      style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:3"
      id="line27" />
   <line
      x1="30"
-     y1="223"
+     y1="197"
      x2="44.5"
-     y2="214"
+     y2="206"
      style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"
      id="line28" />
   <line
      x1="44.5"
-     y1="206"
+     y1="214"
      x2="30"
-     y2="197"
+     y2="223"
      style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"
      id="line29" />
   <ellipse
@@ -275,7 +275,7 @@
      style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2"
      id="ellipse29" />
   <path
-     d="M 38,203 L 34,205 L 33,198 L 39,202 L 37,203"
+     d="M 38,217 L 34,215 L 33,222 L 39,218 L 37,217"
      style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2"
      id="path29" />
   <line
