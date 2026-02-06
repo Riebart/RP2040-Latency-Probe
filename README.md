@@ -18,22 +18,13 @@ The only part that's even remotely specific is the phototransistor.
 
 ## Circuit
 
-```netlist
-* Netlist created with www.circuit-diagram.org
-* 
-V1 0 0
-V2 1 0
-D3 2 3
-'phototransnpn2 emit:4 col:2 t=NPNPhototransistor2
-'transnpn col:0 base:3 emit:5 t=NPN
-R4 1 4 1000000
-R5 5 6 2000
-'microcontroller #19:4 #25:1 #34:0 #9:2 #18:6 header=Raspberry Pi Pico sz=40 p0=GP0 p1=VBUS p2=GP1 p3=VSYS p4=GND p5=GND p6=GP2 p7=3V3_EN p8=GP3 p9=3V3_OUT p10=GP4 p11=ADC_VREF p12=GP5 p13=GP28 p14=GND p15=GND p16=GP6 p17=GP27 p18=GP7 p19=GP26 p20=GP8 p21=RUN p22=GP9 p23=GP22 p24=GND p25=GND p26=GP10 p27=GP21 p28=GP11 p29=GP20 p30=GP12 p31=GP19 p32=GP13 p33=GP18 p34=GND p35=GND p36=GP14 p37=GP17 p38=GP15 p39=GP16
-```
-
 ![Circuit layout](media/circuit.svg)
 
 ## Assembly
+
+You can assemble it pretty tightly, but you'll want the LED and phototransistor on the ends of longer two-wire leads, at least 50cm each, just for flexibility during use. For the wires to the LED and phototransistor, I just used some solid-core 30awg wire-wrapping wire, but 30awg silicone stranded wire, like you'd have for FPV component signal wires, would be perfect. You'll want to twist them so you've got a nice twisted pair.
+
+Other than that, solder it up as you normally would, and then once you've tested it, glue it all together. I used some UV resin to hold it together, but beware that it makes rework, if you mess something up, very very tricky. I sugest some hot glue, or even superglue is easier to rework than UV resin.
 
 ## Usage
 
